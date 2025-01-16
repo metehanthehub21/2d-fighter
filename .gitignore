@@ -1,0 +1,28 @@
+# Unity-specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Crashlytics generated file
+*.pidb
+*.apk
+*.unitypackage
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb.meta
+
+# OS-specific
+.DS_Store
+Thumbs.db
